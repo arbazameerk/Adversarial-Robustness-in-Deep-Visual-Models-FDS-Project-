@@ -331,7 +331,3 @@ Attacks require computing gradients per input and cannot be batch processed. I t
 - He, K., Zhang, X., Ren, S., & Sun, J. (2015). *Deep residual learning for image recognition*. arXiv.org. https://arxiv.org/abs/1512.03385
 
 - Contributors, P. (2023). *CrossEntropyLoss*. https://docs.pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
-
----
-
-*Note: Images will be added to the figures referenced throughout this document.*
